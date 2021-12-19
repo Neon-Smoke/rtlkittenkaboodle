@@ -81,7 +81,8 @@ box-sizing: border-box;
   }
 
 .column {
-  float: left;
+	height: 100vh;
+  float: right;
   font-size: 20px;
   width: 50%;
 }
@@ -93,6 +94,7 @@ box-sizing: border-box;
 }
 
 .content {
+	height: 100vh;
 	background-color: #c1e6c7;
   text-align: center;
   font-size: 0.8em;
