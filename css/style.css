@@ -62,17 +62,18 @@ box-sizing: border-box;
 
 .header{
   text-align: center;
-  font-size: 35px;
+  font-size: 3em;
   font-weight: bolder;
   margin-bottom: 15px;
 }
 
 .secheader{
+	height: 100vh;
   text-align: center;
-  font-size: 35px;
+  font-size: 3em;
   font-weight: bolder;
   padding-top: 5%;
-  margin-bottom: 10%;
+  margin-bottom: 2%;
 }
 
 .row {
