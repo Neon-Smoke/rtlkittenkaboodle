@@ -8,13 +8,6 @@ box-sizing: border-box;
 }
 
 
-.banner{
-	width: 100%;
-	height: 100vh;
-	color: ;
-	background-size: cover;
-	background-position: center;
-}
 
 .logo{
 	cursor: pointer;
@@ -74,8 +67,7 @@ box-sizing: border-box;
   text-align: center;
   font-size: 35px;
   font-weight: bolder;
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 
@@ -83,8 +75,8 @@ box-sizing: border-box;
   text-align: center;
   font-size: 35px;
   font-weight: bolder;
-  margin-top: 20%;
-  margin-bottom: 5px;
+  padding-top: 5%;
+  margin-bottom: 10%;
 }
 
 .row {
@@ -92,7 +84,7 @@ box-sizing: border-box;
   }
 
 .column {
-  float: top;
+  float: left;
   font-size: 20px;
   width: 50%;
 }
@@ -104,17 +96,7 @@ box-sizing: border-box;
 }
 
 .content {
-  float: center;
-  line-height: 1.5;
-  padding-top: 1%;
-  padding-left: 10%;
-  padding-right: 10%;
-  padding-bottom: 1%;
-  background-color: #0009;
-  margin-top: 1.5%;
-  margin-bottom: 1.5%;
-  margin-left: 10%;
-  margin-right: 10%;
+	background-color: #c1e6c7;
   text-align: center;
   font-size: 0.8em;
   font-weight:  bolder;
@@ -122,6 +104,7 @@ box-sizing: border-box;
 
 .p {
   margin-top: 15%;
+  padding-top: 10%;
   margin-left: 15%;
 }
 
