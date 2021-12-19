@@ -7,8 +7,6 @@ font-family: 'Architects Daughter', cursive;
 box-sizing: border-box;
 }
 
-
-
 .logo{
 	cursor: pointer;
 	color: #27c460;
@@ -62,14 +60,12 @@ box-sizing: border-box;
 
 /* content start */
 
-
 .header{
   text-align: center;
   font-size: 35px;
   font-weight: bolder;
   margin-bottom: 15px;
 }
-
 
 .secheader{
   text-align: center;
